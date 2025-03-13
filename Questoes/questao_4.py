@@ -1,12 +1,12 @@
-sp = 67836.43
+sp = 67836.43 #valores informados nas questoes=
 rj = 36676.66
 mg = 29229.88
 es = 27165.48
 outros = 19843.53
 
-soma = sp + rj + mg + es + outros
+soma = sp + rj + mg + es + outros #somando os valores para calcular a porcentagem
 
-sp = sp/soma * 100
+sp = sp/soma * 100 #calculo das porcentagens individuais
 rj = rj/soma * 100
 mg = mg/soma * 100
 es = es/soma * 100
